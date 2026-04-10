@@ -1,11 +1,28 @@
-# LeetCode-Solutions
-# My first 50 LeetCode problems solved
+# LeetCode-Solutions 🚀
 
-Completed my first 50 LeetCode problems!  
-Topics covered: Arrays, Strings, Hashing, Math.  
+This repository contains my Java solutions for LeetCode problems.
 
-Each file contains:
-- Problem number and title
-- Solution in Java
+## 📌 Progress
+- ✅ First 50 Problems Completed
+- ✅ Next 50 Problems Completed (Total 100+ problems)
 
-Looking forward to solving more problems and improving my algorithm skills!
+## 🧠 Topics Covered
+- Arrays
+- Strings
+- Hashing
+- Linked List
+- Stack & Queue
+- Math
+- Binary Search
+
+## 📂 Structure
+- Each file contains the problem number and name
+- Solutions are written in Java
+- Organized into folders (1_50, 51_100)
+
+## 🎯 Goal
+To improve problem-solving skills and strengthen Data Structures & Algorithms.
+
+---
+
+⭐ Keep learning, keep building!
